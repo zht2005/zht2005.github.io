@@ -7,7 +7,7 @@ author_profile: true
 
 I am **Hantian Zhang**, an undergraduate student in Information and Computing Science at **Jinan University**, expecting to graduate in June 2027. My research interests lie in trustworthy machine learning, generative models, and AI security and privacy.
 
-I am currently a visiting student at the **AGI Lab, Westlake University**, working with [Chi Zhang](https://icoz69.github.io/) and [Chenru Wang](https://winterccc.github.io/). I also work with [Qingkai Zeng](https://qingkaizeng.github.io/) at **Nankai University** and Wentai Wu at **Jinan University**.
+I am currently a visiting student at the **AGI Lab, Westlake University**, working with [Prof. Chi Zhang](https://icoz69.github.io/) and [Chenru Wang](https://winterccc.github.io/). I also work with [Prof. Qingkai Zeng](https://qingkaizeng.github.io/) at **Nankai University** and Prof. Wentai Wu at **Jinan University**.
 
 ## Selected work
 
