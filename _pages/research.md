@@ -15,7 +15,7 @@ Working with [Chi Zhang](https://icoz69.github.io/) and [Chenru Wang](https://wi
 
 **Visiting Student** · January 2026–present
 
-Working with Qingkai Zeng on reliability and fairness in retrieval-augmented generation. This work examines how retrieved evidence, including its position and the stance of search results, affects model answers.
+Working with [Qingkai Zeng](https://qingkaizeng.github.io/) on reliability and fairness in retrieval-augmented generation. This work examines how retrieved evidence, including its position and the stance of search results, affects model answers.
 
 ## Jinan University
 
