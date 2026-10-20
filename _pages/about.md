@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am **Hantian Zhang**, an undergraduate student in Information and Computing Science at **Jinan University**. My research focuses on trustworthy AI, especially reliable retrieval-augmented generation (RAG), AI security and privacy, and efficient generative models.
+I am **Hantian Zhang**, an undergraduate student in Information and Computing Science at **Jinan University**. My research focuses on trustworthy AI, AI security and privacy, and generative models.
 
 I am currently a visiting student at the **AGI Lab, Westlake University**, where I work with Chi Zhang and Chenru Wang on synthetic data and diffusion guidance. I also work with Qingkai Zeng at **Nankai University** on evidence reliability and bias in RAG, and with Wentai Wu at **Jinan University** on privacy-preserving face-image retrieval and RAG evaluation.
 
