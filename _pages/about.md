@@ -7,7 +7,7 @@ author_profile: true
 
 I am **Hantian Zhang**, an undergraduate student in Information and Computing Science at **Jinan University**, expecting to graduate in June 2027. My research interests lie in trustworthy machine learning, generative models, and AI security and privacy.
 
-I am currently a visiting student at the **AGI Lab, Westlake University**, where I work with Chi Zhang and Chenru Wang on synthetic data and diffusion guidance. I also work with Qingkai Zeng at **Nankai University** on evidence reliability and bias in RAG, and with Wentai Wu at **Jinan University** on privacy-preserving face-image retrieval and RAG evaluation.
+I am currently a visiting student at the **AGI Lab, Westlake University**, where I work with [Chi Zhang](https://icoz69.github.io/) and [Chenru Wang](https://winterccc.github.io/) on synthetic data and diffusion guidance. I also work with Qingkai Zeng at **Nankai University** on evidence reliability and bias in RAG, and with Wentai Wu at **Jinan University** on privacy-preserving face-image retrieval and RAG evaluation.
 
 ## Research interests
 

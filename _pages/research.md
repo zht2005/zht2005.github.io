@@ -9,7 +9,7 @@ author_profile: true
 
 **Visiting Student** · March 2026–present
 
-Working with Chi Zhang and Chenru Wang on budget-efficient synthetic data generation and sampling-time guidance for diffusion models. Our current manuscript, **GTS**, studies how targeted synthesis can improve data scaling under a limited generation budget.
+Working with [Chi Zhang](https://icoz69.github.io/) and [Chenru Wang](https://winterccc.github.io/) on budget-efficient synthetic data generation and sampling-time guidance for diffusion models. Our current manuscript, **GTS**, studies how targeted synthesis can improve data scaling under a limited generation budget.
 
 ## Nankai University
 
