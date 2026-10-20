@@ -9,12 +9,6 @@ I am **Hantian Zhang**, an undergraduate student in Information and Computing Sc
 
 I am currently a visiting student at the **AGI Lab, Westlake University**, working with [Chi Zhang](https://icoz69.github.io/) and [Chenru Wang](https://winterccc.github.io/). I also work with [Qingkai Zeng](https://qingkaizeng.github.io/) at **Nankai University** and Wentai Wu at **Jinan University**.
 
-## Research interests
-
-- **Reliable language models:** evidence sufficiency, answer abstention, and position bias in RAG.
-- **AI security and privacy:** privacy-preserving retrieval and the utility–privacy tradeoff.
-- **Generative models:** synthetic data scaling and sampling-time diffusion guidance.
-
 ## Selected work
 
 - **GTS: Gap-targeted synthesis for budget-efficient synthetic data scaling.** Submitted to ICLR 2027.
