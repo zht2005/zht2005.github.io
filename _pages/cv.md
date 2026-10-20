@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)](/files/Hantian_Zhang_CV.pdf){: .btn .btn--primary}
+[Download my CV (PDF)](/files/Hantian_Zhang_CV.pdf?v=diffusion-20261020){: .btn .btn--primary}
 
 ## Education
 

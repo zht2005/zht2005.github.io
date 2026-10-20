@@ -19,4 +19,4 @@ author_profile: true
 
 4. **GTS: Gap-targeted synthesis for budget-efficient synthetic data scaling.** Hantian Zhang, [Chenru Wang](https://winterccc.github.io/), and [Chi Zhang](https://icoz69.github.io/). Submitted to ICLR 2027.
 
-Publication status reflects my [CV](/files/Hantian_Zhang_CV.pdf). Please contact me for manuscripts that are not yet publicly available.
+Publication status reflects my [CV](/files/Hantian_Zhang_CV.pdf?v=diffusion-20261020). Please contact me for manuscripts that are not yet publicly available.
