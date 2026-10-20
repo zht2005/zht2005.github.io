@@ -9,10 +9,6 @@ I am **Hantian Zhang**, an undergraduate student in Information and Computing Sc
 
 I am currently a visiting student at the **AGI Lab, Westlake University**, where I work with Chi Zhang and Chenru Wang on synthetic data and diffusion guidance. I also work with Qingkai Zeng at **Nankai University** on evidence reliability and bias in RAG, and with Wentai Wu at **Jinan University** on privacy-preserving face-image retrieval and RAG evaluation.
 
-I enjoy turning questions about model behavior into clear evaluations and practical methods. I am interested in research opportunities in trustworthy AI and related areas.
-
-[Email me](mailto:hantianzhang0@gmail.com){: .btn .btn--primary} [Download CV](/files/Hantian_Zhang_CV.pdf){: .btn} [GitHub](https://github.com/zht2005){: .btn}
-
 ## Research interests
 
 - **Reliable language models:** evidence sufficiency, answer abstention, and position bias in RAG.
