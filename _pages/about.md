@@ -15,7 +15,7 @@ I am currently a visiting student at the **AGI Lab, Westlake University**, worki
 
 - **GTS: Gap-targeted synthesis for budget-efficient synthetic data scaling.**<br>
   **Hantian Zhang**, Chenru Wang, Xinyi Ye, Xiaoxi Wei, and Chi Zhang.<br>
-  Submitted to ICLR 2027.
+  Submitted to CVPR 2027.
 - **Do LLMs Know When Evidence is Insufficient?**<br>
   **Hantian Zhang** and Wentai Wu.<br>
   *Computers, Materials & Continua*, 2026. [Paper](https://doi.org/10.32604/cmc.2026.086343)

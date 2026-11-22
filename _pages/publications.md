@@ -17,6 +17,6 @@ author_profile: true
 
 ## Manuscripts under review
 
-4. **GTS: Gap-targeted synthesis for budget-efficient synthetic data scaling.** Hantian Zhang, Chenru Wang, Xinyi Ye, Xiaoxi Wei, and Chi Zhang. Submitted to ICLR 2027.
+4. **GTS: Gap-targeted synthesis for budget-efficient synthetic data scaling.** Hantian Zhang, Chenru Wang, Xinyi Ye, Xiaoxi Wei, and Chi Zhang. Submitted to CVPR 2027.
 
 Publication status reflects my [CV](/files/Hantian_Zhang_CV.pdf?v=20261020-full-authors). Please contact me for manuscripts that are not yet publicly available.
